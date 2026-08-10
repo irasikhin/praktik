@@ -1,0 +1,14 @@
+# Go
+/praktik
+/cmd/praktik/praktik
+/result
+/dist
+
+# Nix / direnv
+/.direnv
+
+# Editor / tooling state
+/.claude/
+*.swp
+.idea/
+.vscode/
